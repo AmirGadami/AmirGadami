@@ -10,12 +10,6 @@
 
 ## 🌱 Currently Learning  
 - 🏗 **LLM Engineering, AI Agents, MLOps, AWS ML Engineering**  
-- 🔍 **Deep Learning & Recommender Systems**  
-
-## 💡 Projects  
-- 🤖 **MLOps AI Agent**: Automating news scraping and summarization with OpenAI models  
-- 🎯 **CAERS**: A deep learning recommendation system using convolutional autoencoders  
-- 📝 **BroucheGenA**: AI-powered brochure generation  
 
 ## 💞️ Looking to Collaborate On  
 - **AI Agents, LLM Applications, MLOps Pipelines, and AI Research**  
