@@ -11,7 +11,7 @@
 ## 🌱 Currently Learning  
 - 🏗 **LLM Engineering, AI Agents, MLOps, AWS ML Engineering**  
 
-## 💞️ Looking to Collaborate On  
+## Looking to Collaborate On  
 - **AI Agents, LLM Applications, MLOps Pipelines, and AI Research**  
 
 ## 📬 Let's Connect!  
