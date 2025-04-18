@@ -16,7 +16,7 @@
 
 ## 📬 Let's Connect!  
 - 📧 Email: [ah.ghadami75@gmail.com](mailto:ah.ghadami75@gmail.com)  
-- 🔗 LinkedIn: [Amirhossein Ghadami](https://www.linkedin.com/in/amirhosseinghadami/)  
+- 🔗 LinkedIn: [Amir Ghadami](https://www.linkedin.com/in/amirhosseinghadami/)  
 - 🐦 Twitter (X): [@Amir_ghadamii](https://x.com/Amir_ghadamii)  
 
 ## ⚡ Fun Fact  
