@@ -1,6 +1,6 @@
 # 👋 Amir Ghadami  
 
-**Machine Learning Engineer | AI Researcher | MLOps Practitioner**  
+**Machine Learning Engineer | AI Researcher 
 
 ---
 
