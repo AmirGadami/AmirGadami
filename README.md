@@ -1,58 +1,54 @@
-# 👋 Amir Ghadami  
+# 👋 Amir Ghadami
 
-**Machine Learning Engineer | AI Researcher 
-
----
-
-## 🔹 Profile  
-I am a Machine Learning Engineer and AI Researcher with a Master’s degree in Computer Science from the **University of Ottawa** (GPA: 3.96). My expertise lies at the intersection of **large language models, recommender systems, and MLOps**. I have published in top-tier venues such as **User Modeling and User-Adapted Interaction**, **Knowledge and Information Systems**, and the **Canadian AI Conference (2023)**.  
-
-My research focuses on **Retrieval-Augmented Generation (RAG) personalization, AI agents, and healthcare NLP**, while my engineering work emphasizes **scalable machine learning pipelines and cloud-native MLOps solutions**.  
+**AI Researcher | Machine Learning Engineer**
 
 ---
 
-## 🔹 Technical Skills  
+## About
 
-- **Programming:** Python, C++, SQL, Java  
-- **Machine Learning:** PyTorch, TensorFlow, Hugging Face, Scikit-learn  
-- **MLOps & Deployment:** MLflow, DVC, Docker, Kubernetes, GitHub Actions, Kubeflow, Vertex AI, AWS SageMaker  
-- **Specialized Areas:** NLP, LLM Engineering, Recommender Systems, AI Agents, Deep Learning  
-- **Cloud Platforms:** AWS, Google Cloud Platform (GCP)  
+I am an AI Researcher at **Unity Health Toronto** and hold a Master's degree in Computer Science from the **University of Ottawa** (GPA: 3.96/4.0).
+
+My research focuses on large language models, information retrieval, recommender systems, and machine learning for healthcare. I am interested in developing reliable and efficient AI systems, with current work spanning LLM-based recommendation, retrieval-augmented generation, and clinical NLP.
 
 ---
 
-## 🔹 Current Focus  
+## Research Interests
 
-- Building **LLM-powered applications** and **AI agent frameworks**  
-- Designing **MLOps pipelines** for reproducible and scalable ML deployment  
-- Advancing research in **personalized RAG systems**  
-
----
-
-## 🔹 Selected Publications  
-
-- *TriDeepRec: A Hybrid Deep Learning Approach to Content- and Behaviour-based Recommendation Systems*, **User Modeling and User-Adapted Interaction**  
-- *[Additional Publication Title]*, **Knowledge and Information Systems**  
-- *[Paper Title]*, **Canadian AI Conference 2023**  
-- 📖 Full list: [Google Scholar](https://scholar.google.ca/citations?user=B2piFEEAAAAJ&hl=en&oi=ao)  
+- Large Language Models (LLMs)
+- Information Retrieval
+- Recommender Systems
+- Retrieval-Augmented Generation (RAG)
+- Healthcare AI
+- Machine Learning
 
 ---
 
-## 🔹 Collaboration Interests  
+## Publications
 
-I am open to collaborations in:  
-- **LLM research and applications**  
-- **AI-driven automation and agents**  
-- **Recommender systems and personalization**  
-- **Healthcare-focused NLP systems**  
+- **TriDeepRec** — *User Modeling and User-Adapted Interaction (UMUAI)*
+- **CAERS-CF** — *Knowledge and Information Systems (KAIS)*
+- **TAVo** — *Canadian AI Conference (2023)*
+
+📖 Google Scholar: https://scholar.google.ca/citations?user=B2piFEEAAAAJ&hl=en&oi=ao
+
+---
+
+## Technical Skills
+
+**Languages:** Python, C++, Java, SQL
+
+**Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face
+
+**LLM & NLP:** LangChain, LangGraph, RAG, Prompt Engineering
+
+**MLOps:** Docker, Kubernetes, MLflow, DVC, GitHub Actions
+
+**Cloud:** AWS, Google Cloud Platform
 
 ---
 
-## 🔹 Connect  
+## Contact
 
-- 📧 [ah.ghadami75@gmail.com](mailto:ah.ghadami75@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/amirhosseinghadami/)  
-- 🐦 [Twitter (X)](https://x.com/Amir_ghadamii)  
-- 💻 [GitHub](https://github.com/amirgadami)  
-
----
+- 📧 **Email:** ah.ghadami75@gmail.com
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/amirhosseinghadami/
+- 💻 **GitHub:** https://github.com/Amirgadami
